@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome to React!
+          Welcome to React! from branch 2
         </a>
       </header>
     </div>
